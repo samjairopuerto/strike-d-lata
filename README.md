@@ -1,5 +1,7 @@
 <p align="center"><img src="banner.png" width="100%" alt="Strike D Lata"></p>
 
+Strike D' Lata: Sigaw ng Sakuna
+
 Pinoy Based Tumbang Preso Game with a Twist
 
 - Note:
