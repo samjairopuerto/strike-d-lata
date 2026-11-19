@@ -1,3 +1,4 @@
+<p align="center"><img src="banner.png" width="100%" alt="Strike D Lata"></p>
 # strike-d-lata
 Pinoy Based Tumbang Preso Game with a Twist
 
