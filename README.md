@@ -8,10 +8,6 @@ Strike D' Lata: Sigaw ng Sakuna
 
 Pinoy Based Tumbang Preso Game with a Twist
 
-- Note:
-  - Requires JDK 17+
-  - javac StrikeDLata.java
-  - java StrikeDLata
-  - Then open http://localhost:8080
-  - Works on PC/Desktop ONLY
+Controls: P1 = WASD + Space (skill E), P2 = Arrow keys + Enter (skill Right Shift)
+Best on a computer with a keyboard (Chrome, Edge or Firefox).
 
