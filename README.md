@@ -9,3 +9,6 @@ Pinoy Based Tumbang Preso Game with a Twist
   - javac StrikeDLata.java
   - java StrikeDLata
   - Then open http://localhost:8080
+
+Game Link (without downloading the file)
+  - https://samjairopuerto.github.io/strike-d-lata/
